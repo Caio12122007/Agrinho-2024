@@ -1,0 +1,35 @@
+*{
+    padding:0;
+    margin: 5
+    ;
+}
+
+header{
+
+    background-color:white;
+    color: rgb(31, 27, 27);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    .cabeçalho-imagem{
+        width: 30%;
+    }
+    
+        .texto-um{
+            margin: 10px;
+            font-size: 25px;
+        }
+        .texto-dois{
+            margin: 10px;
+            font-size: 25px;
+        }
+        .cabeçalho-item{
+            background-color: black;
+        }
+        .cabeçalho-Lista-item{
+font-size: 25px;
+
+
+}
